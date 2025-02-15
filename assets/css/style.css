@@ -170,7 +170,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #056916;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../../Exhibition\ Stand\ Builders\ Dubai.jpg)no-repeat;
+    background:url('../../Exhibition\ Stand\ Builders\ Dubai.jpg')no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
